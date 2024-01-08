@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.cell {
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+}
+
+.miniCell {
+  width: 100px;
+  height: 100px;
+}
+
+.row {
+  width: 920px;
+  height: 320px;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.miniRow {
+  width: 300px;
+  height: 100px;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
