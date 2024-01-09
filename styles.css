@@ -12,6 +12,10 @@ body {
 .miniCell {
   width: 100px;
   height: 100px;
+  text-align: center;
+  font-size: 100px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
 }
 
 .row {
@@ -28,4 +32,8 @@ body {
   display: flex;
   margin: 0;
   padding: 0;
+}
+
+.highlightedCell {
+  background-color: green;
 }
